@@ -24,4 +24,4 @@ Other good numpy and pandas ressources:
 
 * **Mami Mokhtar** - *github* - [Mami Mokhtar](https://github.com/Mo5mami)
 
-  **Mehdi ben Chikha** - *github* - [Mehdi Ben Chikha](https://github.com/Mo5mami)
+  **Mehdi ben Chikha** - *github* - [Mehdi Ben Chikha](https://github.com/MehdiBC)
