@@ -19,6 +19,9 @@ Other good numpy and pandas ressources:
 2. pandas documentation [link](https://pandas.pydata.org/pandas-docs/stable/reference/index.html)
 3. Introduction to Data Science with python [link](https://www.coursera.org/learn/python-data-analysis)
 4. Many exercices with solution (recommended) [pandas exercices](https://github.com/guipsamora/pandas_exercises) 
+5. numpy course on kaggle [link] (https://www.kaggle.com/legendadnan/numpy-tutorial-for-beginners-data-science)
+6. numpy course on youtube (recommanded) [link] (https://www.youtube.com/watch?v=ZB7BZMhfPgk)
+7. Exercices with solutions [link] (https://www.w3resource.com/python-exercises/numpy/index.php
 
 ## Authors
 
